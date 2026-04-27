@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "key": "start_story",
+            "value": "Story"
+        },
+        {
+            "key": "start_endless",
+            "value": "Endless"
+        },
+        {
+            "key": "settings",
+            "value": "Settings"
+        },
+        {
+            "key": "quit",
+            "value": "Quit"
+        }
+    ]
+}
