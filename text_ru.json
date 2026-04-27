@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "key": "start_story",
+            "value": "История"
+        },
+        {
+            "key": "start_endless",
+            "value": "Бесконечный"
+        },
+        {
+            "key": "settings",
+            "value": "Настройки"
+        },
+        {
+            "key": "quit",
+            "value": "Выход"
+        }
+    ]
+}
