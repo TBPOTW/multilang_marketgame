@@ -15,6 +15,66 @@
         {
             "key": "quit",
             "value": "Quit"
+        },
+        {
+            "key": "resolution",
+            "value": "Resolution"
+        },
+        {
+            "key": "fullscreen",
+            "value": "Full screen"
+        },
+        {
+            "key": "quality",
+            "value": "Quality"
+        },
+        {
+            "key": "volume",
+            "value": "Volume"
+        },
+        {
+            "key": "sensitivity",
+            "value": "Sensitivity"
+        },
+        {
+            "key": "deletesaves",
+            "value": "Delete saves"
+        },
+        {
+            "key": "back",
+            "value": "Back"
+        },
+        {
+            "key": "loading",
+            "value": "Loading..."
+        },
+        {
+            "key": "pause",
+            "value": "Pause"
+        },
+        {
+            "key": "resume",
+            "value": "Resume"
+        },
+        {
+            "key": "mainmenu",
+            "value": "Main menu"
+        },
+        {
+            "key": "quitgame",
+            "value": "Quit game"
+        },
+        {
+            "key": "score",
+            "value": "Score:"
+        },
+        {
+            "key": "areas",
+            "value": "Areas"
+        },
+        {
+            "key": "npcpatient",
+            "value": "Consumer's patience"
         }
     ]
 }

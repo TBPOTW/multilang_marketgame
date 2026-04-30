@@ -15,6 +15,66 @@
         {
             "key": "quit",
             "value": "Выход"
+        },
+        {
+            "key": "resolution",
+            "value": "Разрешение"
+        },
+        {
+            "key": "fullscreen",
+            "value": "Полный экран"
+        },
+        {
+            "key": "quality",
+            "value": "Качество"
+        },
+        {
+            "key": "volume",
+            "value": "Звук"
+        },
+        {
+            "key": "sensitivity",
+            "value": "Чувствительность"
+        },
+        {
+            "key": "deletesaves",
+            "value": "Удалить сохранения"
+        },
+        {
+            "key": "back",
+            "value": "Назад"
+        },
+        {
+            "key": "loading",
+            "value": "Загрузка..."
+        },
+        {
+            "key": "pause",
+            "value": "Пауза"
+        },
+        {
+            "key": "resume",
+            "value": "Возобновить"
+        },
+        {
+            "key": "mainmenu",
+            "value": "Меню"
+        },
+        {
+            "key": "quitgame",
+            "value": "Выход"
+        },
+        {
+            "key": "score",
+            "value": "Счет:"
+        },
+        {
+            "key": "areas",
+            "value": "Отделы"
+        },
+        {
+            "key": "npcpatient",
+            "value": "Терпение посетителя"
         }
     ]
 }
