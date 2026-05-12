@@ -75,6 +75,22 @@
         {
             "key": "npcpatient",
             "value": "Терпение посетителя"
+        },
+        {
+            "key": "marketraiting",
+            "value": "Рейтинг магазина"
+        },
+        {
+            "key": "needablebags",
+            "value": "Мне нужно пластиковых пакетов"
+        },
+        {
+            "key": "enter",
+            "value": "Ввод"
+        },
+        {
+            "key": "delete",
+            "value": "Сбросить"
         }
     ]
 }

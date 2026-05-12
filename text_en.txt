@@ -75,6 +75,22 @@
         {
             "key": "npcpatient",
             "value": "Consumer's patience"
+        },
+        {
+            "key": "marketraiting",
+            "value": "Market raiting"
+        },
+        {
+            "key": "needablebags",
+            "value": "I need plastic bags "
+        },
+        {
+            "key": "enter",
+            "value": "Enter"
+        },
+        {
+            "key": "delete",
+            "value": "Delete"
         }
     ]
 }
