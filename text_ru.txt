@@ -91,6 +91,18 @@
         {
             "key": "delete",
             "value": "Сбросить"
+        },
+        {
+            "key": "restart",
+            "value": "Заново"
+        },
+        {
+            "key": "time",
+            "value": "Время"
+        },
+        {
+            "key": "satisfired",
+            "value": "Всего обслужено:"
         }
     ]
 }

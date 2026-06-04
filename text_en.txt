@@ -91,6 +91,18 @@
         {
             "key": "delete",
             "value": "Delete"
+        },
+        {
+            "key": "restart",
+            "value": "Restart"
+        },
+        {
+            "key": "time",
+            "value": "Time"
+        },
+        {
+            "key": "satisfired",
+            "value": "Satisfired customers"
         }
     ]
 }
